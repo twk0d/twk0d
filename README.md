@@ -26,7 +26,7 @@
 
 ---
 <div align="center">
-🛠️ My Tech Stack
+🛠️ My Achievements
     
 🧑‍💻 Languages & Frameworks
 <p align="center">
