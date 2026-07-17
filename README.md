@@ -10,9 +10,10 @@
 
 ### 🔭 What I'm currently building
 
-- **[Dovahzul](https://gitlab.com/twkod/dovahzul)** — a social network/blog about Skyrim's dragon language
-- **fpm-x-compat** — a compatibility layer between First Person Model, Better Combat, Spell Engine, and other mods to Fabric and NeoForge 1.21.1
-- Some small side projects, ask-me about it!
+- **Dovahzul** — private platform for Skyrim's Dragon Language: blog, dictionary, translator, and community.
+- **[My Little Place](https://kaokod.me)** — my personal old-web corner: blog, gallery, guestbook & more.
+- **[FPModel x Combat](https://gitlab.com/twkod/fpm-x-compat)** — Minecraft compat mod for First Person Model, Better Combat, Spell Engine & more.
+- **[Echo PT-BR Translation](https://gitlab.com/twkod/EchoVNptbr)** — PT-BR translation for the visual novel [Echo](https://echoproject.itch.io/echo).
 
 ---
 
@@ -35,7 +36,7 @@
 <p align="center">
 
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -77,8 +78,9 @@
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D300?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511945975898&text=Ol%C3%A1%20Koda!%20%F0%9F%98%81)
 [![ProtonMail](https://img.shields.io/badge/-Proton-%236D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:github.likeness740@passmail.net)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-support_me-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/kaokod)
+
+### View Counter
 
 <img src="https://count.getloli.com/@01KHR7XEM88B2ZRP50S4K43DCG?name=01KHR7XEM88B2ZRP50S4K43DCG&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Counter"/>
-
-### People who have already viewed this profile
 </div>
