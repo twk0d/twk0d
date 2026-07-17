@@ -5,16 +5,13 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Lexend&weight=600&size=24&repeat=false&duration=4000&pause=300000&color=F2954D&center=true&vCenter=true&width=900&height=24&lines=Hi,+I'm+Koda+Turqui,+but+you+can+call+me+Kao!" alt="Typing SVG" />
 
 </div>
-
 ---
 
 ### 🔭 What I'm currently building
-
 - **Dovahzul** — private platform for Skyrim's Dragon Language: blog, dictionary, translator, and community.
 - **[My Little Place](https://kaokod.me)** — my personal old-web corner: blog, gallery, guestbook & more.
 - **[FPModel x Combat](https://gitlab.com/twkod/fpm-x-compat)** — Minecraft compat mod for First Person Model, Better Combat, Spell Engine & more.
 - **[Echo PT-BR Translation](https://gitlab.com/twkod/EchoVNptbr)** — PT-BR translation for the visual novel [Echo](https://echoproject.itch.io/echo).
-
 ---
 
 ### 🧑‍💻 Core Stack
@@ -79,6 +76,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D300?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511945975898&text=Ol%C3%A1%20Koda!%20%F0%9F%98%81)
 [![ProtonMail](https://img.shields.io/badge/-Proton-%236D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:github.likeness740@passmail.net)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-support_me-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/kaokod)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/twkod)
 
 ### View Counter
 
